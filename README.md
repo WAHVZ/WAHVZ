@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WAHVZ
-- 👀 I’m interested in learning and exploring AI and CyberSecurity.
-- 🌱 I’m currently learning python and c++ and databases.
+- 👋 Hi, I’m Wali Ashraf.
+- 👀 I’m interested in learning and exploring CyberSecurity.
+- 🌱 I’m currently learning vulneribility assessment.
 - 📫 How to reach me : Just Email.
 
 <!---
